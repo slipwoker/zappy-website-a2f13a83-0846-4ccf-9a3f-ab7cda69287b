@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+משרד עורך דין אופיר שטרנברג מציע ייעוץ משפטי מהשורה הראשונה לחברות ועסקים. מקצועיות ללא פשרות, תוצאות שמדברות בעד עצמן. גלו מדוע הלקוחות הכי דורשניים בוחרים בנו.
+
+### שירותים
+https://example.com/services
+ממשפט מסחרי ועד ליטיגציה מורכבת — משרד אופיר שטרנברג מספק מגוון שירותים משפטיים מותאמים אישית לעסקים ולחברות. כל תיק מטופל בדיוק, בניסיון ובמחויבות מלאה להצלחתכם.
+
+### אודות
+https://example.com/about
+אופיר שטרנברג עורך דין בעל ניסיון עשיר, מוניטין בלתי מעורער ורקורד מוכח של הצלחות. הכירו את הגורם האנושי שמניע את אחד ממשרדי עורכי הדין הנחשבים בישראל.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם משרד עורך דין אופיר שטרנברג עוד היום לקבלת ייעוץ משפטי ראשוני. אנחנו כאן כדי להקשיב, להבין את הצרכים שלכם ולהציע פתרון משפטי מנצח — כי זמנכם יקר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
